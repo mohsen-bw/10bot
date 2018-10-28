@@ -4,7 +4,7 @@
 V2.1 editor_::
 Prankbots
 # PRANKBOTS
-![Prankbots](prankbots.png)
+![Prankbots](prankots.png)
 V2.1 last update::
 05/0/2018
 # CONTACT OFFICIAL
